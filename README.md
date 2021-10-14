@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JobThompson
-- 👀 I’m interested in Space, Data Analytics, Scripting
+- 👀 I’m interested in Space Exploration, Data Analytics, Scripting, Machine Learning, Automation
 - 🌱 I’m currently learning C#, React, MaterialUI, Python, .NET
 - 📫 How to reach me Email: Jobt3483@gmail.com
 
