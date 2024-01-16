@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JobThompson
-- 👀 I’m interested in Space Exploration, Data Analytics, Scripting, Machine Learning, Automation
-- 🌱 I’m currently learning Advanced Python Data Analysis, .NET ASP, Entity Framework
-- 💞️ I’m not looking to colaborate at the moment
+- 👀 I’m interested in Space Exploration, Data Analytics, Machine Learning, Automation through scripting
+- 🌱 I’m currently learning Advanced Python Data Analysis, Angular with Bootstrap
+- 💞️ I’m not looking to collaborate at the moment
 - 📫 How to reach me Email: Jobt3483@gmail.com
 
 <!---
